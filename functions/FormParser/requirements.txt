@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-bigquery
+six
+google-cloud-documentai
+google-cloud-translate
+google-cloud-pubsub
+google-cloud-storage
