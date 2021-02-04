@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-aiplatform
+google-cloud-storage
+simplejson
+googleapis-common-protos
+google-cloud-vision
+google-cloud-documentai
